@@ -1,0 +1,89 @@
+*
+*
+
+
+.logo{
+    height: 250px;
+    width: 450px;
+}
+header{
+    display: flex;
+    background-color: rgb(180, 209, 127);
+justify-self: start;
+ border-radius: 250px 250px 250px 250px;
+
+}
+.tuto{
+    color: rgb(0, 0, 0);
+margin-top: 90px;
+margin-right: 350px;
+}
+.QUALQUER{
+    text-align: center;
+    margin: 50px;
+}
+.come{
+    background-color: rgb(180, 209, 127);
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 45px;
+}
+.bloco{
+    display: flex;
+    justify-content: space-around;
+}
+
+.past{
+  height: 200px;
+   width: 350px;
+}
+
+.pãoq{
+    height: 200px;
+    width: 350px;
+}
+
+.pãoc{
+    height: 200px;
+    width: 350px;
+}
+
+.bolo{
+    height: 200px;
+    width: 350px;
+}
+
+.doceab{
+    height: 200px;
+    width: 350px;
+}
+
+.docelt{
+    height: 200px;
+    width: 350px;
+}
+
+.bolopt{
+    height: 200px;
+    width: 350px;
+}
+
+.fruta{
+    height: 200px;
+    width: 350px;
+}
+ 
+.legumes{
+    height: 200px;
+    width: 350px;
+}
+input{
+    width: 300px;
+    height: 30px;
+    border: solid black 2px;
+    border-radius: 40px;
+    margin-top: 80px;
+    margin-left: 300px;
+}
+
+
