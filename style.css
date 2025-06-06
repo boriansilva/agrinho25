@@ -1,12 +1,11 @@
-*
-*
+
 
 
 .logo{
     height: 250px;
     width: 450px;
 }
-header{
+header{margin: 30px;
     display: flex;
     background-color: rgb(180, 209, 127);
 justify-self: start;
